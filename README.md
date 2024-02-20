@@ -1,5 +1,11 @@
 IWebElement
 
+Полезные ссылки:
+* https://testengineer.ru/xpath-quick-guide/
+* https://testengineer.ru/chrome-developer-tools-dlya-testirovshchika/
+* https://docs.nunit.org/articles/nunit/writing-tests/assertions/assertions.html
+  
+
 * Для проверок используется класс Assert
 
 ### Задание №1. Поиск элементов на странице
