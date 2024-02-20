@@ -1,17 +1,24 @@
-![изображение](https://github.com/AutomationC/3.-IWebElement/assets/22545947/34b34a65-f97e-4321-9ac4-431bd276c99f)# IWebElement
-Задания по IWebElement
+![изображение](https://github.com/AutomationC/3.-IWebElement/assets/22545947/8d39d0d8-0368-4545-b102-1dff3723ad44)### Задания IWebElement
 
 * Для проверок используется класс Assert
 
 ### Задание №1. Поиск элементов на странице
 
 За основу берется сайт заявки ипотеку (https://ib.psbank.ru/store/products/classic-mortgage-program). 
+![изображение](https://github.com/AutomationC/3.-IWebElement/assets/22545947/6d84ab4f-96c6-43fe-9909-1e5042669dc2)
+
+
 Необходимо перейти на эту страницу и найти элементы по XPATH с помощью функции FindElement драйвера IWebDriver:
- * Объект ипотеки
- * Кнопка заполнить через госуслуги
- * Карточка с брендом "Семейная ипотека"
- * Свитчер "Страхование жизни"
- * Поле "Срок кредита"
+ * Объект ипотеки ![изображение](https://github.com/AutomationC/3.-IWebElement/assets/22545947/c0451a80-f0cd-45d0-88e1-51bd6f597b5f)
+
+ * Кнопка заполнить через госуслуги ![изображение](https://github.com/AutomationC/3.-IWebElement/assets/22545947/8f65ebbe-1428-422e-a4f2-6c423c7ccb0e)
+
+ * Карточка с брендом "Семейная ипотека" ![изображение](https://github.com/AutomationC/3.-IWebElement/assets/22545947/bd589bcb-ee2c-4bb9-88f8-d867216c79b7)
+
+ * Свитчер "Страхование жизни" ![изображение](https://github.com/AutomationC/3.-IWebElement/assets/22545947/303fa32c-fc3b-43fe-8227-b4e801200fc9)
+
+ * Поле "Срок кредита" ![изображение](https://github.com/AutomationC/3.-IWebElement/assets/22545947/3b5ffa28-7ce2-4752-b437-233a3314d932)
+
 
 ### Задание №2. Атрибуты элементов
 
